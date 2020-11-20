@@ -15,4 +15,5 @@ public class SubClass {
 	public void setClassname(String classname) {
 		this.classname = classname;
 	}
+	// this is comment
 }
