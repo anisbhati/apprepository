@@ -16,4 +16,5 @@ public class SubClass {
 		this.classname = classname;
 	}
 	// this is comment
+	// this 2nd comment
 }
